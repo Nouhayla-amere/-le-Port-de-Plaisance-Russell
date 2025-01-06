@@ -1,0 +1,3 @@
+mkdir port-plaisance-api
+cd port-plaisance-api
+git init
